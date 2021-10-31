@@ -36,3 +36,9 @@ pyenv activate .venv
 ```bash
 pip install -r requirements.txt
 ```
+
+6. Run VersionedAuthService
+
+```bash
+python app.py
+```
